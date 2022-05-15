@@ -17,4 +17,4 @@ Test
 
 Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-Тест
+Тест 2
